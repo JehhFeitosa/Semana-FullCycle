@@ -1,8 +1,10 @@
-# Imersão Full Stack & FullCycle - Codelivery
+﻿# Imersão Full Stack & FullCycle - Codelivery
+
 
 ## Descrição
 
 Repositório do front-end feito com React.js (Front-end)
+
 
 **Importante**: A aplicação do Apache Kafka, Golang e Nest.js deve estar rodando primeiro.
 
